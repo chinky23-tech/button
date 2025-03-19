@@ -1,0 +1,45 @@
+h2{
+    text-align: center;
+    padding: 20px;
+}
+p{
+    text-align: center;
+}
+.contact-form {
+    background-color: whitesmoke;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.form-group{
+    
+ padding: 20px;
+}
+.form-group label{
+    display: block;
+    margin-bottom: 0.5rem;
+}
+.form-group input,.form-group textarea{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.form-group textarea{
+    resize: vertical;
+}
+
+#formresponse{
+    text-align: center;
+    margin-top: 1rem;
+    color: bisque;
+}
+button{
+    display: block;
+    justify-content: center;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+}
